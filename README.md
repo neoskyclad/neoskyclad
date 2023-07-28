@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 
 #### 🤝 My Organization
 [Project Lamb](https://github.com/ProjectLamb)
+
 [SSU Kaleido](https://github.com/SSUKaleido)
