@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 ---
 #### ☕ My blog
 [neoskyclad.blog](https://neoskyclad.github.io/)
+#### 💻 My Current Project
 -->
 #### 🤝 My Organization
 [Project Lamb](https://github.com/ProjectLamb)
 
 [SSU Kaleido](https://github.com/SSUKaleido)
+
