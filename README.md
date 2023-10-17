@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ---
 #### ☕ My blog
 [neoskyclad.blog](https://neoskyclad.github.io/)
-
+-->
 #### 🤝 My Organization
 [Project Lamb](https://github.com/ProjectLamb)
 
