@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/neoskyclad/neoskyclad/assets/50211003/baed6fcb-fa17-4aa6-bfe6-5aca64839f2b)### Hi there 👋
 My name is DaeHyun Kwon
 
 <!--
@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 
 [SSU Kaleido](https://github.com/SSUKaleido)
 
+#### ✉ E-mail
+neoskyclad@naver.com
