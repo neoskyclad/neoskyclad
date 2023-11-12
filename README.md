@@ -1,4 +1,4 @@
-![image](https://github.com/neoskyclad/neoskyclad/assets/50211003/baed6fcb-fa17-4aa6-bfe6-5aca64839f2b)### Hi there 👋
+### Hi there 👋
 My name is DaeHyun Kwon
 
 <!--
