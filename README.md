@@ -8,6 +8,9 @@ I'm currently aiming to be a game developer.
 Have a nice day! 🤗
 
 ---
+[![Neoskyclad's GitHub stats](https://github-readme-stats.vercel.app/api?username=neoskyclad)](https://github.com/neoskyclad/github-readme-stats)
+---
+
 #### 🤝 My Organization
 [Project Lamb](https://github.com/ProjectLamb)
 
