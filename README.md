@@ -1,9 +1,11 @@
 ### Hi there 👋
 My name is DaeHyun Kwon.
+
 I'm majoring in Software at Soongsil University.
+
 I'm currently aiming to be a game developer.
 
-Have a nice day!
+Have a nice day! 🤗
 <!--
 **neoskyclad/neoskyclad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
