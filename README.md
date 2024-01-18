@@ -13,13 +13,13 @@ Have a nice day! 🤗
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=neoskyclad)](https://solved.ac/neoskyclad/)
 
 ---
-
 ### 🤝 My Organization
 [Project Lamb](https://github.com/ProjectLamb)
 
 [SSU Kaleido](https://github.com/SSUKaleido)
 
-### ✉ E-mail
+---
+### ✉ My E-mail
 neoskyclad@naver.com
 <!--
 **neoskyclad/neoskyclad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
