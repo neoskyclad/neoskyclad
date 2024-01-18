@@ -8,7 +8,8 @@ I'm currently aiming to be a game developer.
 Have a nice day! 🤗
 
 ---
-[![Neoskyclad's GitHub stats](https://github-readme-stats.vercel.app/api?username=neoskyclad)](https://github.com/neoskyclad/github-readme-stats)
+![Neoskyclad's GitHub stats](https://github-readme-stats.vercel.app/api?username=neoskyclad&show_icons=true&theme=synthwave)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=neoskyclad)](https://solved.ac/neoskyclad/)
 ---
 
 #### 🤝 My Organization
