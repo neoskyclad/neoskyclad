@@ -8,16 +8,18 @@ I'm currently aiming to be a game developer.
 Have a nice day! 🤗
 
 ---
+### My Stats 
 ![Neoskyclad's GitHub stats](https://github-readme-stats.vercel.app/api?username=neoskyclad&show_icons=true&theme=synthwave)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=neoskyclad)](https://solved.ac/neoskyclad/)
+
 ---
 
-#### 🤝 My Organization
+### 🤝 My Organization
 [Project Lamb](https://github.com/ProjectLamb)
 
 [SSU Kaleido](https://github.com/SSUKaleido)
 
-#### ✉ E-mail
+### ✉ E-mail
 neoskyclad@naver.com
 <!--
 **neoskyclad/neoskyclad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
