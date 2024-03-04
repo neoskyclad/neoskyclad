@@ -3,7 +3,7 @@ My name is Dae Hyun Kwon.
 
 I'm majoring in Software at Soongsil University.
 
-I'm currently aiming to be a game developer.
+I'm currently aiming to be a game developer. 🎮
 
 Have a nice day! 🤗
 
