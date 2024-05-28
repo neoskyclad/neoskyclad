@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Kwon DaeHyun.
+My name is DaeHyun Kwon.
 
 I'm majoring in Software at Soongsil University. (2019.03.04 ~ )
 
