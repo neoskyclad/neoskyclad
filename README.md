@@ -17,8 +17,8 @@ Have a nice day! 🤗
 
 ### 🤝 My Organization  
 [Project Lamb](https://github.com/ProjectLamb)  
-[SSU Kaleido](https://github.com/SSUKaleido)  
-
+[SSU Kaleido](https://github.com/SSUKaleido)
+[SSAFY 13th CS Study](https://github.com/2025-13th-18-CS)
 ---  
 
 ### ✉ My E-mail  
