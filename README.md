@@ -1,28 +1,47 @@
-## Hi there 👋  
-My name is DaeHyun Kwon.  
+## 👋 Hi there  
+I'm **DaeHyun Kwon**, a passionate developer who thrives at the forefront of technology.  
 
-I graduated from Soongsil University with a degree in Software on February 21, 2025. 🎓  
+🎓 Graduated from Soongsil University (Software) on **Feb 21, 2025**  
+🚀 Currently striving to build innovative and user-focused software  
+💬 Always open to collaboration and learning  
 
-I'm currently aiming to be a developer at the forefront of technology. 🚀  
+Have a great day! 🤗  
 
-Have a nice day! 🤗  
+---
 
----  
-
-### My Stats  
+## 📊 My Stats  
 ![Neoskyclad's GitHub stats](https://github-readme-stats.vercel.app/api?username=neoskyclad&show_icons=true&theme=synthwave)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=neoskyclad)](https://solved.ac/neoskyclad/)  
 
----  
+---
 
-### 🤝 My Organization  
-[Project Lamb](https://github.com/ProjectLamb)  
+## 🛠️ Tech Stack  
 
-[SSU Kaleido](https://github.com/SSUKaleido)  
+<div align="center">
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
-[SSAFY 13th CS Study](https://github.com/2025-13th-18-CS)  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
----  
+  <!-- Game Dev -->
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
 
-### ✉ My E-mail  
-neoskyclad@naver.com  
+</div>
+
+---
+
+## 🤝 My Organizations  
+- [Project Lamb](https://github.com/ProjectLamb) – Indie Game Dev Team 🎮  
+- [SSU Kaleido](https://github.com/SSUKaleido) – Soongsil University Software Circle 💡  
+- [SSAFY 13th CS Study](https://github.com/2025-13th-18-CS) – Computer Science Study Group 📘  
+
+---
+
+## ✉️ Contact Me  
+📫 **E-mail**: neoskyclad@naver.com  
