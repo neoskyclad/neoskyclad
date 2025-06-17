@@ -45,3 +45,4 @@ Have a great day! 🤗
 
 ## ✉️ Contact Me  
 📫 **E-mail**: neoskyclad@naver.com  
+☕ **Blog**: [Daehyun's Velog](https://velog.io/@neoskyclad/)
