@@ -1,9 +1,9 @@
 ## 👋 Hi there
 I'm **DaeHyun Kwon**, a passionate developer who thrives at the forefront of technology.
 
-🎓 Graduated from Soongsil University (Software) on **Feb 21, 2025**
-🚀 Currently striving to build innovative and user-focused software
-💬 Always open to collaboration and learning
+🎓 Graduated from Soongsil University (Software) on **Feb 21, 2025** <br>
+🚀 Currently striving to build innovative and user-focused software <br>
+💬 Always open to collaboration and learning <br>
 
 Have a great day! 🤗
 
