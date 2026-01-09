@@ -31,7 +31,7 @@ Have a great day! 🤗
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
-  <br><br>
+  <br>
 
   <h3>Game Dev</h3>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
@@ -51,13 +51,6 @@ Have a great day! 🤗
 | **Aug 2025** | **Excellence Award (Common Project)**, Samsung Software Academy for Youth |
 | **Apr 2025** | **SQL Developer (SQLD)** (Kdata) |
 | **Oct 2024** | **Top Excellence Award (Metaverse Track)**, 12th K-HACKATHON |
-
----
-
-## 🤝 My Organizations
-- [Project Lamb](https://github.com/ProjectLamb) – Indie Game Dev Team 🎮
-- [SSU Kaleido](https://github.com/SSUKaleido) – Soongsil University Software Circle 💡
-- [SSAFY 13th CS Study](https://github.com/2025-13th-18-CS) – Computer Science Study Group 📘
 
 ---
 
