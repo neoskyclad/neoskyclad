@@ -45,6 +45,7 @@ Have a great day! 🤗
 
 | Date | Title |
 | :--- | :--- |
+| **Mar 2026** | **ADsP (Advanced Data Analytics Semi-Professional)** (Kdata) |
 | **Jan 2026** | **Linux Master, Level 2** (KAIT) |
 | **Sep 2025** | **Excellence Award (Specialized Project)**, Samsung Software Academy for Youth |
 | **Sep 2025** | **Engineer Information Processing** (Human Resources Development Service of Korea) |
