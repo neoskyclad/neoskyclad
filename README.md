@@ -10,7 +10,7 @@ Have a great day! 🤗
 ---
 
 ## 📊 My Stats
-![DaeHyun's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neoskyclad&theme=synthwave&hide_border=true)
+![neoskyclad's GitHub stats](https://github-readme-stats.vercel.app/api?username=neoskyclad&show_icons=true&theme=synthwave)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=neoskyclad)](https://solved.ac/profile/neoskyclad/)
 
 ---
