@@ -1,60 +1,70 @@
-## 👋 Hi there
-I'm **DaeHyun Kwon**, a passionate developer who thrives at the forefront of technology.
+# 👋 DaeHyun Kwon
 
-🎓 Graduated from Soongsil University (Software) on **Feb 21, 2025** <br>
-🚀 Currently striving to build innovative and user-focused software <br>
-💬 Always open to collaboration and learning <br>
+**Software Engineer | AI Developer Tools & Backend**
 
-Have a great day! 🤗
+Building AI-powered developer tools and backend systems.
 
----
-
-## 📊 My Stats
-![neoskyclad's GitHub stats](https://github-readme-stats.vercel.app/api?username=neoskyclad&show_icons=true&theme=synthwave)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=neoskyclad)](https://solved.ac/profile/neoskyclad/)
+Currently working on an **AI Code Assistant**, mainly developing
+Python-based **CLI and Agent Server**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 Current Focus
 
-<div align="center">
-
-  <h3>Backend & Infrastructure</h3>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-  <br>
-
-  <h3>Game Dev</h3>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
-
-</div>
+* AI Agent Tooling
+* LLM Context & Session Management
+* Client-Server Compatibility
+* LLM Serving
+* Backend & Developer Productivity
 
 ---
 
-## 🎖️ Awards & Certificates
+## 🛠 Tech
 
-| Date | Title |
-| :--- | :--- |
-| **Mar 2026** | **ADsP (Advanced Data Analytics Semi-Professional)** (Kdata) |
-| **Jan 2026** | **Linux Master, Level 2** (KAIT) |
-| **Sep 2025** | **Excellence Award (Specialized Project)**, Samsung Software Academy for Youth |
-| **Sep 2025** | **Engineer Information Processing** (Human Resources Development Service of Korea) |
-| **Aug 2025** | **Excellence Award (Common Project)**, Samsung Software Academy for Youth |
-| **Apr 2025** | **SQL Developer (SQLD)** (Kdata) |
-| **Oct 2024** | **Top Excellence Award (Metaverse Track)**, 12th K-HACKATHON |
+### Main
+
+Python · Java · Spring Boot · PostgreSQL · Docker · Linux
+
+### Experience
+
+MySQL · Redis · GitHub Actions · Raspberry Pi · Jetson · Unity · Unreal Engine
 
 ---
 
-## ✉️ Contact Me
-📫 **E-mail**: neoskyclad@naver.com
-☕ **Blog**: [Daehyun's Velog](https://velog.io/@neoskyclad/)
+## 🚀 Selected Projects
+
+### AuthFailed
+
+Authentication-themed game where players clear mini-games throughout the sign-up and login process.
+Developed an **LLM-powered mini-game** with Unity/C# and a **self-hosted FastAPI LLM server**.
+`Unity` `C#` `Python` `FastAPI` `LLM`
+
+### MOUP
+
+Spring Boot based backend service
+`Java` `Spring Boot` `MySQL` `OAuth` `AWS S3`
+
+### VSChord
+
+Real-time MIDI / LED processing system
+`Python` `Raspberry Pi` `Jetson` `BLE`
+
+---
+
+## 🏆 Awards & Certifications
+
+### Awards
+
+* **Excellence Award**, SSAFY Specialized Project — Sep 2025
+* **Excellence Award**, SSAFY Common Project — Aug 2025
+* **Top Excellence Award**, 12th K-HACKATHON — Oct 2024
+
+### Certifications
+
+**Engineer Information Processing** · **SQL Developer (SQLD)**
+
+---
+
+## ✉️ Contact
+
+📫 [neoskyclad@naver.com](mailto:neoskyclad@naver.com)
