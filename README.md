@@ -35,8 +35,7 @@ MySQL · Redis · GitHub Actions · Raspberry Pi · Jetson · Unity · Unreal En
 
 ### AuthFailed
 
-Authentication-themed game where players clear mini-games throughout the sign-up and login process.
-Developed an **LLM-powered mini-game** with Unity/C# and a **self-hosted FastAPI LLM server**.
+LLM-powered mini-game with Unity/C# and a self-hosted FastAPI LLM server.
 `Unity` `C#` `Python` `FastAPI` `LLM`
 
 ### MOUP
